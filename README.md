@@ -1,7 +1,7 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-<video src='assets/tomcat.mp4' width=180/>
+<video src='assets/tomcat.mp4' width=1000/>
 
 ## 1. 应用简介
 

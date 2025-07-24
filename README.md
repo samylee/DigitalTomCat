@@ -1,7 +1,7 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-
+<video src="assets/tomcat.mp4" style="display: block; margin: 0 auto;" controls></video>
 
 ## 1. 应用简介
 
@@ -43,3 +43,6 @@
    - 状态显示：实时展示连接状态和交互状态
    - 对话记录：图文形式展示完整对话历史
    - 动画同步：根据语音状态切换动画
+
+## 3. FIND ME
+任何问题请加唯一QQ2258205918（名称samylee）！

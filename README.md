@@ -1,7 +1,7 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-[![IMAGE ALT TEXT HERE](assets/tomcat.png)](https://www.bilibili.com/video/BV1Yr8uz3Ey8/?share_source=copy_web&vd_source=be5cf484079cb97ddb9d5b23772751ef)
+https://github.com/samylee/DigitalTomCat/blob/main/assets/tomcat.mp4
 
 ## 1. 应用简介
 

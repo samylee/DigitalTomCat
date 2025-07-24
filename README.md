@@ -1,7 +1,9 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-https://github.com/samylee/DigitalTomCat/blob/main/assets/tomcat.mp4
+```HTML
+<video src="assets/tomcat.mp4" controls="controls" width="500" height="300"></video>
+```
 
 ## 1. 应用简介
 

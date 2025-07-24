@@ -1,9 +1,7 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-<video width="320" height="240" controls>
-  <source src="assets/tomcat.mp4" type="video/mp4">
-</video>
+[![IMAGE ALT TEXT HERE](assets/tomcat.png)](https://www.bilibili.com/video/BV1Yr8uz3Ey8/?share_source=copy_web&vd_source=be5cf484079cb97ddb9d5b23772751ef)
 
 ## 1. 应用简介
 

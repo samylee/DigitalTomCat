@@ -1,7 +1,10 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-<video src="assets/tomcat.mp4"></video>
+<video width="600" controls>
+  <source src="assets/tomcat.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 1. 应用简介
 

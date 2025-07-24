@@ -1,5 +1,5 @@
 # DigitalTomCat
-数字人-数字汤姆猫
+数字人-数字汤姆猫：低延时，低成本，本地化部署！
 
 <video src='https://github.com/user-attachments/assets/e21bb176-26cd-4749-80fc-0428a7eded8d' width=960></video>  
 

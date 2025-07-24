@@ -1,10 +1,7 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-<video width="600" controls>
-  <source src="assets/tomcat.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="960" height="532" src="https://www.bilibili.com/video/BV1Yr8uz3Ey8/?share_source=copy_web&vd_source=be5cf484079cb97ddb9d5b23772751ef" frameborder="0" allowfullscreen></iframe>
 
 ## 1. 应用简介
 

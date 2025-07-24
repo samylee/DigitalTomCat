@@ -1,7 +1,9 @@
 # DigitalTomCat
 数字人-数字汤姆猫
 
-<iframe width="960" height="532" src="https://www.bilibili.com/video/BV1Yr8uz3Ey8/?share_source=copy_web&vd_source=be5cf484079cb97ddb9d5b23772751ef" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="assets/tomcat.mp4" type="video/mp4">
+</video>
 
 ## 1. 应用简介
 
